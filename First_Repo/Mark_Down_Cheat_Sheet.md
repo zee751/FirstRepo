@@ -1,5 +1,5 @@
 
-# **MARKDOWN CHEATSHEET**
+# **MARKDOWN CHEATSHEET FOR BEGINNERS**
 
 # Table of Content
 
